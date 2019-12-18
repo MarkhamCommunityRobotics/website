@@ -9,6 +9,8 @@ competed in the Markham District High School Tournament. Under the mentorship of
 Team 6866 members Michael Zhou and Robert Cai, FLL team 48775 Berczy Bots 8K earned
 the Core Values Award and 48778 Berczy Builders 2K20 earned the title of District Champions!
 
+<div style="text-align:center"><img src="/assets/posts/2019-12-11-fll-berczy-bots-1.jpg" alt="Berczy Bots Picture 1" style="width: 50%"></div>
+
 Starting October 2019, William Berczy students have attended after-school meetings twice per
 week to prepare for the three components of FIRST Lego League: the Robot Game, the
 Innovation Project, and the Core Values Activity. Dedicated students spent these meetings
@@ -17,11 +19,18 @@ year's FLL Game, City Shaper. Furthermore, students also participated in team-bu
 activities for their Core Values presentation. In addition, students prepared their Innovation
 Projects by identifying problems with local infrastructure and buildings, coming up with solutions through research, and obtaining valuable profession opinions through email correspondence, phone calls, and video interviews.
 
+<div style="text-align:center"><img src="/assets/posts/2019-12-11-fll-berczy-bots-2.png" alt="Berczy Bots Picture 1" style="width: 50%"><img src="/assets/posts/2019-12-11-fll-berczy-bots-3.png" alt="Berczy Bots Picture 1" style="width: 50%"></div>
+
+
+
 Since William Berczy's robotics initiative was started in October of 2018 with the help of our
 members, the program has grown from one team competing in FLL and YRDSB Skills
 Challenge in the 2018-2019 school year to four teams competing in FLL and two teams
 competing in Skills in the 2019-2020 school year. The program has provided over 50 students in
 grades 5 to 8 with the opportunity to explore their interests in robotics, engineering, and science and to collaborate with peers who share their interests.
+
+<div style="text-align:center"><img src="/assets/posts/2019-12-11-fll-berczy-bots-4.png" alt="Berczy Bots Picture 1" style="width: 50%"><img src="/assets/posts/2019-12-11-fll-berczy-bots-5.png" alt="Berczy Bots Picture 1" style="width: 50%"></div>
+
 
 Team 48778 Berczy Builders 2K20 will be going to compete in the Durham College Provincial
 Tournament in January, 2020. Keep up the good work and go Berczy!
