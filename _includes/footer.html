@@ -4,14 +4,14 @@
         height: auto;
         padding: 0px;
     }
-
+    
     table,
     th,
     td,
     tr {
         border-collapse: collapse;
     }
-
+    
     th,
     td,
     tr {
@@ -22,25 +22,37 @@
 <footer class="footer">
     <div class="container">
         <div class="row" style="text-align: left;">
-            <div class="col m5 s12">
+            <div class="col m4 s12">
                 <p class="grey-text text-lighten-4">
-                    Markham Community Robotics is a local, student-led robotics
-                    organization that competes in the FIRST Robotics Competition.
+                    Markham Community Robotics is a local, student-led robotics organization that competes in the FIRST Robotics Competition.
                 </p>
-                <p class="grey-text text-lighten-3">Copyright © 2019 Markham Community Robotics</p>.
+                <p class="grey-text text-lighten-3">Copyright © 2021 Markham Community Robotics</p>
+
             </div>
-            <div class="col m7 s12" style="font-size:0;">
+            <div class="col m4 s12">
+
+                <div class="valign-wrapper">
+                    <h5 class="center-align">
+                        {% include social-media-links.html %}
+                    </h5>
+                </div>
+            </div>
+
+
+
+            <div class="col m4 s12">
+                <span class="align-middle">
                 <table style="width:100%">
                     <tr>
-                        <td style="width:24.7%"><a href="https://www.wsp.com"><img src="/assets/logos/sponsors/wsp.jpg"></a></td>
-                        <td style="width:25%"><a href="http://www.sablemetal.com"><img src="/assets/logos/sponsors/Sable.gif"></a></td>
-                        <td style="width:25%"><a href="https://kidzwhiz.com"><img src="/assets/logos/sponsors/Kidzwhiz.png"></a></td>
-                        <td style="width:32%">
-                            <a href="https://www.voyzant.com/"><img src="/assets/logos/sponsors/silver/voyzant.png"></a>
-                            <a href="https://www.callture.com/"><img src="/assets/logos/sponsors/bronze/callture.png"></a>
+                        <!--   <td style="width:25%">
+                            <a href="http://www.sablemetal.com"><img src="/assets/logos/sponsors/Sable.gif"></a>
+                        </td>-->
+                        <td style="width:25%">
+                            <a href="https://kidzwhiz.com"><img src="/assets/logos/sponsors/Kidzwhiz.png"></a>
                         </td>
                     </tr>
                 </table>
+            </span>
             </div>
         </div>
     </div>
